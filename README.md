@@ -26,4 +26,4 @@ Feel free to contact us if something is not clear.
 
 ## Note for Metapercept interviewers
 
-Do not push solutions to the coding exercise as it is a public repository.
+Do not push solutions to the code-exercise as it is a public repository.
